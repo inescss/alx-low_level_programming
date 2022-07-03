@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main -> assign a random number to the variable n each time it is executed and ptint
+ * main->assign a random number to the variable n each time it is executed
  * based a condition
  * Return : always 0
  */
