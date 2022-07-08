@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *print_line -draws a stranght line in the terminal.
- *@: print int 
+ *@: print int
  *Return: Always 0
  */
 void print_line(int n)
