@@ -1,12 +1,11 @@
 #include "main.h"
+#include <string.h>
 /**
- *  _strlen - Function that returns the length of a string
- *  @s: this is the input string
- *  Return: Lzenngth of the string
+ *  _strlen -> Function to get the length of a string
+ *  @s: string pointer to passed to tgis function
+ *  Return:  returns the length of a string
  */
 int _strlen(char *s)
 {
-int index;
-for (index = 0; s[index] != '\0' ; index++)
-return (index);
+return (strlen(s));
 }
