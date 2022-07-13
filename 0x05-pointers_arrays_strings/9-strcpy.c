@@ -1,6 +1,6 @@
 #include "main"
 /**
- * _strcpy - copiar el contendio de uno a otra variable
+ * _strcpy -> copiar el contendio de uno a otra variable
  * @dest: this is destiny
  * @src: this is the copia
  *
