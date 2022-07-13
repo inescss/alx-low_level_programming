@@ -13,7 +13,7 @@ if (x % 2 == 1)
 y = x / 2 + 1;
 else
 y = x / 2;
-for (i = y; i > x; i++)
-_putchar(str[half]);
+for (i = y; i < x; i++)
+_putchar(str[i]);
 _putchar('\n');
 }
