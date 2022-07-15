@@ -5,7 +5,7 @@
  * @dest: param1
  * @src: param2
  * @n: param3
- * Return: string
+ * Return: return
  */
 char *_strncpy(char *dest, char *src, int n)
 {
